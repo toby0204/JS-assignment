@@ -56,19 +56,3 @@ function add(){
     }
   }
    
-
-   
-
-    /* add.onclick=function(){
-
-        let todo=document.getElementById('schedule').value;
-        document.write(todo);
-
-        let time=new Date()
-        date= time.getFullYear() + '.' + time.getMonth() +'.' +time.getDate();
-        document.write(date);
-
-        let x=document.createElement("INPUT")
-        x.setAttribute("type","checkbox")
-
-    }*/
